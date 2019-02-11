@@ -6,6 +6,5 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
-
+:panda_face:
 Use the left arrow to go back!
